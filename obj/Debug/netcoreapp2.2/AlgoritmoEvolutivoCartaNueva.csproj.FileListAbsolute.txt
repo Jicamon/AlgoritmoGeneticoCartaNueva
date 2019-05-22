@@ -1,0 +1,11 @@
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\bin\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.deps.json
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\bin\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.runtimeconfig.json
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\bin\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.runtimeconfig.dev.json
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\bin\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.dll
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\bin\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.pdb
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.csprojAssemblyReference.cache
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.csproj.CoreCompileInputs.cache
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.AssemblyInfoInputs.cache
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.AssemblyInfo.cs
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.dll
+C:\Users\chuy_\Desktop\IA Nora\AlgoritmoEvolutivoCartaNueva\obj\Debug\netcoreapp2.2\AlgoritmoEvolutivoCartaNueva.pdb
